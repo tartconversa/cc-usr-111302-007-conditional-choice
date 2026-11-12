@@ -1,0 +1,18 @@
+{
+  "attributes": [
+    "price",
+    "update_frequency"
+  ],
+  "standardize_on": "fit",
+  "ridge": 0.01,
+  "bootstrap_unit": "institution",
+  "bootstrap_repeats": 200,
+  "seed": 11130207,
+  "hand_beta": {
+    "price": "-log(3)",
+    "update_frequency": 0
+  },
+  "hand_beta_coordinate_system": "raw",
+  "convergence_tolerance": 1e-08,
+  "max_iterations": 1000
+}

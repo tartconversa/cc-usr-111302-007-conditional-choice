@@ -1,0 +1,12 @@
+[
+  {
+    "path": "fixtures/choice.json",
+    "sha256": "1f2dc6d9cc469cc7020408eab1c0c77e041e83a9da7099cf6fa4613636431bc2",
+    "size_bytes": 361
+  },
+  {
+    "path": "fixtures/choices.json",
+    "sha256": "6442072eb99242fbf0aa7ad43244a723bd7209ce298dad75f4b90abf1faddde4",
+    "size_bytes": 1042
+  }
+]

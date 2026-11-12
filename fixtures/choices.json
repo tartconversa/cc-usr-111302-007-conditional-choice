@@ -1,0 +1,58 @@
+{
+  "choices": [
+    {
+      "choice_id": "hand",
+      "institution": "i1",
+      "split": "fit",
+      "alternatives": [
+        {
+          "key": "a",
+          "price": 0,
+          "update_frequency": 1
+        },
+        {
+          "key": "b",
+          "price": 1,
+          "update_frequency": 1
+        }
+      ],
+      "chosen": "a"
+    },
+    {
+      "choice_id": "c2",
+      "institution": "i2",
+      "split": "fit",
+      "alternatives": [
+        {
+          "key": "a",
+          "price": 1,
+          "update_frequency": 2
+        },
+        {
+          "key": "outside",
+          "price": 0,
+          "update_frequency": 0
+        }
+      ],
+      "chosen": "outside"
+    },
+    {
+      "choice_id": "c3",
+      "institution": "i3",
+      "split": "validation",
+      "alternatives": [
+        {
+          "key": "a",
+          "price": 2,
+          "update_frequency": 3
+        },
+        {
+          "key": "b",
+          "price": 1,
+          "update_frequency": 1
+        }
+      ],
+      "chosen": "b"
+    }
+  ]
+}
